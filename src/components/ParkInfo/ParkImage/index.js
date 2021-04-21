@@ -1,8 +1,9 @@
 import React from 'react'
+import './styles.css';
 
 const ParkImage = (props) => {
     return(
-        <img src={props.parks.url}/>
+        <img src=""/>
     )
 }
 
